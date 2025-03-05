@@ -2,9 +2,9 @@
 ![CSS](https://img.shields.io/badge/CSS-3-1572B6?style=flat-square&logo=css3&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=yellow)
 
-<div style="text-align:center;">
-    <img src="icons/icon128.png" alt="logo" />
-</div>
+
+<img style="margin-left: 50%; margin-right: 50%" src="icons/icon128.png" alt="logo" />
+
 
 Simple extension to capture and save web pages in PNG format.
 ## Description
