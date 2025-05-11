@@ -1,8 +1,11 @@
 ![HTML](https://img.shields.io/badge/HTML-5-E34F26?style=flat-square&logo=html5&logoColor=red)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=yellow)
+![html2canvas](https://img.shields.io/badge/html2canvas-v1.4.1-blue?style=flat-square)
 
 
-<img style="margin-left: 50%; margin-right: 50%" src="icons/icon128.png" alt="logo" />
+<div align="center" width="100%">
+    <img src="icons/icon128.png" alt="logo"/>
+</div>
 
 
 Simple extension to capture and save web pages in PNG format.
@@ -10,7 +13,7 @@ Simple extension to capture and save web pages in PNG format.
 This extension makes it easy to capture a web page with just one click. Whether you need to save a specific section or just take a screenshot, this extension makes the screenshot process simple for you.
 ### Main features
 - Quick Screenshot: Take an instant screenshot of the visible part of the page.
-- Intégration facile : Compatible avec les navigateurs populaires comme Chrome, Firefox et Edge.
+- Easy integration: Compatible with the popular Chrome browser and soon with Firefox.
 
 ---
 ## Installation
@@ -52,3 +55,5 @@ To install this extension, follow these steps:
 ---
 ## Project Status
 The project is currently being improved🛠️.
+
+⚠️ Next step implement in firefox!
